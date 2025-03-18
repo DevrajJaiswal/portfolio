@@ -136,6 +136,9 @@ nav ul li a:hover::after {
   25% {
     transform: translateX(-50px);
   }
+  50% {
+    transform: translateX(0);
+  }
   75% {
     transform: translateX(50px);
   }
