@@ -503,6 +503,9 @@ nav .fa {
     color: #ff004f;
   }
 
+  #home .right{
+    margin-top:50px;
+  }
   #home .right img {
     max-width: 350px;
   }
