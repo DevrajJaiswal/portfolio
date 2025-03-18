@@ -126,7 +126,7 @@ nav ul li a:hover::after {
   max-width: 500px;
   transition: all 1s ease-in-out;
   animation-name: move;
-  animation-duration: 5s;
+  animation-duration: 8s;
   animation-iteration-count: infinite;
 }
 @keyframes move {
