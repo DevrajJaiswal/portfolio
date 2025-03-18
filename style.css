@@ -129,23 +129,23 @@ nav ul li a:hover::after {
   animation-duration: 5s;
   animation-iteration-count: infinite;
 }
-/* @keyframes move {
+@keyframes move {
   0% {
     transform: translateX(0);
   }
   25% {
-    transform: translateX(-25px);
+    transform: translateX(-50px);
   }
   50% {
     transform: translateX(0);
   }
   75% {
-    transform: translateX(25px);
+    transform: translateX(50px);
   }
   100% {
     transform: translateX(0px);
   }
-} */
+}
 
 /*-------------about-section--------------*/
 #about {
@@ -504,7 +504,7 @@ nav .fa {
   }
 
   #home .right img {
-    max-width: 400px;
+    max-width: 350px;
   }
   #home h1 {
     font-size: 25px;
