@@ -422,6 +422,7 @@ form .btn2 {
   padding: 11px 60px;
   font-size: 15px;
   margin-top: 20px;
+  cursor:pointer;
 }
 /*-----------footer-section-------*/
 .copyright {
