@@ -118,15 +118,17 @@ nav ul li a:hover::after {
   letter-spacing: 3px;
   font-size: 16px;
 }
+
 #home h2 {
   font-size: 50px;
   color: gainsboro;
   letter-spacing: 4px;
 }
+
 #home h2 span {
   color: #ff004f;
 }
-#home .right{
+#home .right {
   text-align: center;
 }
 #home .right img {
@@ -493,29 +495,18 @@ nav .fa {
 
   #home .row {
     padding-top: 10%;
-    align-items:
+    align-items: center;
     justify-content: space-around;
   }
 
-  #home p {
-    margin-bottom: 0;
-    color: #b54769;
-    color: white;
-    letter-spacing: 3px;
-  }
-
-  #home h1 span {
-    color: #ff004f;
-  }
-
-  #home .right{
-    margin-top:50px;
+  #home .right {
+    margin-top: 50px;
   }
   #home .right img {
     max-width: 350px;
   }
-  #home h1 {
-    font-size: 25px;
+  #home h2 {
+    font-size: 30px;
   }
   .section-title {
     font-size: 20px;
